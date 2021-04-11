@@ -1,0 +1,24 @@
+{
+  "name": "jin-coding.github.io",
+  "version": "1.0.0",
+  "description": "JinPanPan`s Personal home pages. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jin-coding/jin-coding.github.io.git"
+  },
+  "author": "jin panpan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jin-coding/jin-coding.github.io/issues"
+  },
+  "homepage": "https://github.com/jin-coding/jin-coding.github.io#readme",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
